@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box ;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    color: tomato;
+    font-size: 50px;
+    font-weight: 100;
+    text-decoration: overline;
+    
+    letter-spacing: 10px;
+    word-spacing: 30px;
+
+}
+
+
+h1 {
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}

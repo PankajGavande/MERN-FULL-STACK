@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> my first website</title>
+    <link rel="shortcut icon" href="pic.jpg" type="image/jpg">
+</head>
+
+<body>
+    <img src="pic.jpg" height="600" alt=" network issue">
+    <img src="https://cdn.pixabay.com/photo/2024/02/21/08/06/coast-8587004_1280.jpg" height="600">
+
+  <audio src="movement-200697.mp3" controls loop autoplay></audio>
+   <video 
+   autoplay
+   loop
+   muted
+   controls
+   height="400"
+   src="https://videos.pexels.com/video-files/856133/856133-uhd_2560_1440_30fps.mp4"
+    
+   ></video>
+   
+    <ol type="a">
+    <li>item 1</li>
+    <li>item 2</li>
+    <li>item 3</li>
+    </ol>
+
+    <ul> type="square">
+        <li> item 1</li>
+        <li> item 2</li>
+        <li> item 3</li>
+    
+    </ul>
+    
+</body>
+</html>
